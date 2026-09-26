@@ -39,4 +39,9 @@ Active — ongoing home lab used for self-hosted infrastructure projects.
 
 ## Photos
 
-_(Add before/after hardware photos, parts/receipts, and partition/BIOS screenshots here.)_
+![Project Screenshot](assets/screenshot.png)
+<caption></caption>
+
+![Project Screenshot](assets/screenshot.png)
+<caption></caption>
+
