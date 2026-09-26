@@ -39,9 +39,9 @@ Active — ongoing home lab used for self-hosted infrastructure projects.
 
 ## Photos
 
-![Project Screenshot](assets/screenshot.png)
-<caption></caption>
-
-![Project Screenshot](assets/screenshot.png)
-<caption></caption>
-
+<img src="Pictures/back_remove.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
+<img src="Pictures/back_remove_2.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
+<img src="Pictures/attached_ram.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
+<img src="Pictures/m.2 ssds.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
+<img src="Pictures/nextcloud_dashboard.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
+<img src="Pictures/back.jpg" alt="Alt Text" width="500" style="transform: rotate(90deg);">
